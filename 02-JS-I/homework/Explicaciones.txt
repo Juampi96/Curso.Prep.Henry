@@ -1,0 +1,11 @@
+	*Variables: permite guardar informacion que luego puedo recuperarla.
+	* Strings: son las variables donde se almacena texto.
+	* Funciones: son codigos que permiten realizar diferentes tareas.
+	 a) argumentos: son variables que se declaran adentro de la función, y toman un valor cuando se invoca a la función.
+	 b) return: le da final a la ejecución de un bloque de codigo.
+	* Declaraciones `if`: 
+	* Valores booleanos: es un tipo de datos, el cual puede tener solo dos valores, true y false. 
+
+	
+	
+	
